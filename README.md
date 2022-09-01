@@ -5,8 +5,11 @@ As already explained in the section above: A "clone" is a offline copy of your r
 
 All the information above are from the ressources provided by the professor on the assignment sheet.
 https://en.wikipedia.org/wiki/Git
+
 https://en.wikipedia.org/wiki/GitHub
+
 https://www.youtube.com/watch?v=w3jLJU7DT5E
+
 https://www.youtube.com/watch?v=0fKg7e37bQE
 
 (https://chriswhong.github.io/nyctaxi/)
