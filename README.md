@@ -4,6 +4,7 @@ So what is GitHub? Github is a software using git and is designed to work as a c
 As already explained in the section above: A "clone" is a offline copy of your repository so you can work offline on your device. A "pull request" needs to be done, when you worked on a separate branch and want to merge your new fatures with the main branch. Than you need to do a pull request, where the Team can give improvements or accept your featueres so you can merge both branches.
 
 All the information above are from the ressources provided by the professor on the assignment sheet.
+
 https://en.wikipedia.org/wiki/Git
 
 https://en.wikipedia.org/wiki/GitHub
